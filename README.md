@@ -17,8 +17,8 @@ This repository contains a Python script for a customer service chatbot using GP
    pip install -r requirements.txt
    ```
 3. Run the script
-```
-python app.py
-```
+   ```
+   python app.py
+   ```
 
 ## Thank you
